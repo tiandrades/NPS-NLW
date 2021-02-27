@@ -36,12 +36,19 @@ This project was developed during the NodeJS trail, in the fourth edition of NLW
 
 ## 🚀 How to run
 
-- Clone the repository 
-- Install the dependencies with `yarn`
-- Start the server with `yarn start`
+```
+# Clone this repository
+$ https://github.com/TiagooAndrade/NPS-NLW.git
+
+# Install dependencies
+$ yarn install
+
+# Start the project
+$ yarn dev
+```
 
 The application can be accessed at [`localhost:3333`](http://localhost:3333).
 
 ---
 
-Made with ♥ by [Tiago Andrade](https://github.com/tiagooandrade)
+Made with 💚 by [Tiago Andrade](https://github.com/tiagooandrade)
