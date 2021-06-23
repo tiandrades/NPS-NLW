@@ -13,6 +13,12 @@
 
 <br>
 
+## ❓ About
+
+NPS-NLW is an application that consists of calculating the company's NPS. In it we make the registration of users, registration of surveys, sending e-mail for users to respond as satisfaction surveys and with this we can perform the calculation of the NPS.
+
+This project was developed during the NodeJS trail, in the fourth edition of NLW. We learned concepts about what an API is, how to start a project using Typescript and Express for route management, TypeORM for data manipulation, automated tests and sending e-mail.
+
 ## ✨ Technologies
 
 This project was developed with the following technologies:
@@ -23,12 +29,6 @@ This project was developed with the following technologies:
 - [Express](https://expressjs.com/pt-br/)
 - [Jest](https://jestjs.io/)
 - [SQL Editor Beekeeper Studio](https://www.beekeeperstudio.io/)
-
-## 💻 Project
-
-NPS-NLW is an application that consists of calculating the company's NPS. In it we make the registration of users, registration of surveys, sending e-mail for users to respond as satisfaction surveys and with this we can perform the calculation of the NPS.
-
-This project was developed during the NodeJS trail, in the fourth edition of NLW. We learned concepts about what an API is, how to start a project using Typescript and Express for route management, TypeORM for data manipulation, automated tests and sending e-mail.
 
 ## 🔶 Diagram
 
